@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StarfieldScreensaver": {
+      "commandName": "Project",
+      "commandLineArgs": "/s"
+    }
+  }
+}
